@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test_repo/static/css/main.cc4b3944.css",
+    "main.js": "/test_repo/static/js/main.cd13b1cc.js",
+    "index.html": "/test_repo/index.html",
+    "main.cc4b3944.css.map": "/test_repo/static/css/main.cc4b3944.css.map",
+    "main.cd13b1cc.js.map": "/test_repo/static/js/main.cd13b1cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc4b3944.css",
+    "static/js/main.cd13b1cc.js"
+  ]
+}
